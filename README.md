@@ -1,5 +1,3 @@
-# Task 3:
-
 ## Objective
 
 This project showcases SQL skills applied to an Ecommerce database for the Elevate Labs Data Analyst Internship. It includes queries for customer insights, order analysis, product filtering, and data aggregation using MySQL. The goal is to extract meaningful business insights from structured data through hands-on SQL practice and analysis.
